@@ -82,7 +82,7 @@ These differing designs have direct implications for performance, which this stu
 3. Tor Project. (n.d.). *Key management.* Tor Project Support.
 4. Astolfi, F., Kroese, J., & van Oorschot, J. (2015). *I2P – The Invisible Internet Project.* Leiden University.
 5. The Invisible Internet Project. (n.d.). *Technical Introduction.*
-6. Fabian, B., Goertz, F., Kunz, S., Müller, S., & Nitzsche, M. (2010). *Privately Waiting – A Usability Analysis of the Tor Anonymity Network.* AMCIS 2010 Proceedings.
+6. Fabian, B., Goertz, F., Kunz, S., Müller, S., & Nitzsche, M. (2010). *Privately Waiting – A Usability Analysis of the Tor Anonymity Network.* AMCIS 2010 Proceedings..
 
 ## License
 
