@@ -2,8 +2,6 @@
 
 **Impact on Bandwidth and Latency Performance**
 
-Authors: Masum Uddin (U3260592), Jude Lazarus (U3254832), Kasra Zahedpur (U3239109)
-
 ## Abstract
 
 This research paper presents a technical evaluation of the network architectures of **I2P** and **Tor**, focusing on how their architectural decisions affect latency and bandwidth. Using controlled HTTP-GET requests and full website load tests across a sample of 500 popular websites, we measured core latency, average (page-load) latency, and bandwidth for both networks, comparing unidirectional tunnel routing (I2P) against bidirectional circuit routing (Tor). The results show that while I2P offers marginal advantages for very simple requests in some cases, its performance degrades significantly for more complex browsing and file downloads compared to Tor.
