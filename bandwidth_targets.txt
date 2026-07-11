@@ -1,0 +1,5 @@
+# label,url
+50KB,http://example.com/testfiles/50kb.bin
+100KB,http://example.com/testfiles/100kb.bin
+500KB,http://example.com/testfiles/500kb.bin
+1MB,http://example.com/testfiles/1mb.bin
